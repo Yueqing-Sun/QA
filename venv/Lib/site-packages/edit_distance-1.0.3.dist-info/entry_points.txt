@@ -1,0 +1,3 @@
+[console_scripts]
+edit-distance = edit_distance.code:main
+

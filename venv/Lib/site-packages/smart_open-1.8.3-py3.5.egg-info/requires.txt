@@ -1,0 +1,11 @@
+boto>=2.32
+requests
+boto3
+
+[test]
+mock
+moto==1.3.4
+pathlib2
+responses
+boto3<1.8.0
+google-compute-engine==2.8.12
